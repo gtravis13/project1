@@ -1,0 +1,27 @@
+h2 {
+  font-size: 1.5rem;
+}
+
+ul,ol,dl,p {
+  font-size: 1rem;
+}
+
+li, p {
+  line-height: 1rem;
+}
+
+/* Description list styles */
+
+
+}
+dd, dt {
+  line-height: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 1rem;
+}
